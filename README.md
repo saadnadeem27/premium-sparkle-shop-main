@@ -4,9 +4,9 @@ A modern, responsive e-commerce platform built with React and TypeScript, featur
 
 ![Premium Store](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop&crop=center&auto=format&q=80)
 
-## 🚀 Live Demo
+<!-- ## 🚀 Live Demo
 
-**[View Live Demo →](https://lovable.dev/projects/83af7053-1831-40f0-b6f4-62f811ef5293)**
+**[View Live Demo →](link here)** -->
 
 ## ✨ Features
 
@@ -168,13 +168,13 @@ Ready to deploy on:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+<!-- ## 👨‍💻 Author
 
 **Your Name**
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 - GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Email: your.email@example.com -->
 
 ## 🙏 Acknowledgments
 
