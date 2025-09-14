@@ -2,7 +2,8 @@
 
 A modern, responsive e-commerce platform built with React and TypeScript, featuring a sophisticated design system and seamless shopping experience.
 
-![Premium Store](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop&crop=center&auto=format&q=80)
+<!-- Portfolio preview image: place your screenshot at `public/premium-sparkle-shop-portfolio.png` -->
+![Portfolio Preview](public/premium-sparkle-shop-portfolio.png)
 
 <!-- ## 🚀 Live Demo
 
